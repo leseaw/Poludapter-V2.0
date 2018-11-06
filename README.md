@@ -2,8 +2,10 @@
 for our smartstepper nema17 driver
 
 
-EU Buyer:
+EU Buyers:
+
 https://youprintin3d.de/elektronik/open-source/1021/smartstepper-motortreiber-nema17-vorbestelleredition.html?number=YP10748
 
-US Buyer:
+US Buyers:
+
 http://misfittech.net/smart-steppers/
